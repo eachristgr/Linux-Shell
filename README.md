@@ -70,4 +70,4 @@ In case of an error, appropriate messages are displayed, however some errors may
 
 ------
 
-More information and examples can be found in report.pdf.
+- More information and examples can be found in report.pdf.
