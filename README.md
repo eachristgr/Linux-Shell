@@ -68,4 +68,6 @@ cat < filename1 && echo hello > filename2 ; ls
 
 In case of an error, appropriate messages are displayed, however some errors may lead to the exit from the shell.
 
+------
+
 More information and examples can be found in report.pdf.
