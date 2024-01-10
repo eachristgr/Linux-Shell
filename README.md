@@ -1,10 +1,8 @@
 # Linux Shell - myShell8804
 
-##### **Aristotle University of Thessaloniki - Electrical and Computer Engineering**
-
-##### **Course : Operating Systems**
-
-##### **Author : [Emmanouil Christos](https://github.com/eachristgr)**
+Aristotle University of Thessaloniki - Electrical and Computer Engineering  
+Course : Operating Systems  
+Author : [Emmanouil Christos](https://github.com/eachristgr)
 
 ------
 
